@@ -1,0 +1,1 @@
+# Using Custom Entities with the HealthVault .NET Standard SDK
